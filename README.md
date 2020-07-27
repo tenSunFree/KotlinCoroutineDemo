@@ -12,7 +12,7 @@ https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android
 預覽
 --------
 <p align="left">
-  <img src="https://imgur.com/vhC7fRf" width="230"/>
+  <img src="https://i.imgur.com/vhC7fRf.png" width="230"/>
 </p> 
 
 備註
